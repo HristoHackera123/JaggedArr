@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\JaggedArrays\SeaChess\bin\Debug\net8.0\SeaChess.exe
+C:\Users\encho\source\repos\JaggedArrays\SeaChess\bin\Debug\net8.0\SeaChess.deps.json
+C:\Users\encho\source\repos\JaggedArrays\SeaChess\bin\Debug\net8.0\SeaChess.runtimeconfig.json
+C:\Users\encho\source\repos\JaggedArrays\SeaChess\bin\Debug\net8.0\SeaChess.dll
+C:\Users\encho\source\repos\JaggedArrays\SeaChess\bin\Debug\net8.0\SeaChess.pdb
+C:\Users\encho\source\repos\JaggedArrays\SeaChess\obj\Debug\net8.0\SeaChess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\JaggedArrays\SeaChess\obj\Debug\net8.0\SeaChess.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\JaggedArrays\SeaChess\obj\Debug\net8.0\SeaChess.AssemblyInfo.cs
+C:\Users\encho\source\repos\JaggedArrays\SeaChess\obj\Debug\net8.0\SeaChess.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\JaggedArrays\SeaChess\obj\Debug\net8.0\SeaChess.dll
+C:\Users\encho\source\repos\JaggedArrays\SeaChess\obj\Debug\net8.0\refint\SeaChess.dll
+C:\Users\encho\source\repos\JaggedArrays\SeaChess\obj\Debug\net8.0\SeaChess.pdb
+C:\Users\encho\source\repos\JaggedArrays\SeaChess\obj\Debug\net8.0\SeaChess.genruntimeconfig.cache
+C:\Users\encho\source\repos\JaggedArrays\SeaChess\obj\Debug\net8.0\ref\SeaChess.dll

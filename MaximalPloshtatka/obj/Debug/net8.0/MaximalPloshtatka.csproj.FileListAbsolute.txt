@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\JaggedArrays\MaximalPloshtatka\bin\Debug\net8.0\MaximalPloshtatka.exe
+C:\Users\encho\source\repos\JaggedArrays\MaximalPloshtatka\bin\Debug\net8.0\MaximalPloshtatka.deps.json
+C:\Users\encho\source\repos\JaggedArrays\MaximalPloshtatka\bin\Debug\net8.0\MaximalPloshtatka.runtimeconfig.json
+C:\Users\encho\source\repos\JaggedArrays\MaximalPloshtatka\bin\Debug\net8.0\MaximalPloshtatka.dll
+C:\Users\encho\source\repos\JaggedArrays\MaximalPloshtatka\bin\Debug\net8.0\MaximalPloshtatka.pdb
+C:\Users\encho\source\repos\JaggedArrays\MaximalPloshtatka\obj\Debug\net8.0\MaximalPloshtatka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\JaggedArrays\MaximalPloshtatka\obj\Debug\net8.0\MaximalPloshtatka.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\JaggedArrays\MaximalPloshtatka\obj\Debug\net8.0\MaximalPloshtatka.AssemblyInfo.cs
+C:\Users\encho\source\repos\JaggedArrays\MaximalPloshtatka\obj\Debug\net8.0\MaximalPloshtatka.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\JaggedArrays\MaximalPloshtatka\obj\Debug\net8.0\MaximalPloshtatka.dll
+C:\Users\encho\source\repos\JaggedArrays\MaximalPloshtatka\obj\Debug\net8.0\refint\MaximalPloshtatka.dll
+C:\Users\encho\source\repos\JaggedArrays\MaximalPloshtatka\obj\Debug\net8.0\MaximalPloshtatka.pdb
+C:\Users\encho\source\repos\JaggedArrays\MaximalPloshtatka\obj\Debug\net8.0\MaximalPloshtatka.genruntimeconfig.cache
+C:\Users\encho\source\repos\JaggedArrays\MaximalPloshtatka\obj\Debug\net8.0\ref\MaximalPloshtatka.dll
